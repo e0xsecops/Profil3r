@@ -1,4 +1,5 @@
 # Profil3r
+<<<<<<< HEAD
 
 <a href="https://www.buymeacoffee.com/givocefo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
@@ -42,3 +43,6 @@ python3 profil3r john doe
 ## 📝 License
 
 This project is under the MIT license.
+=======
+OSINT tool that allows you to find a person's accounts and emails + breached emails
+>>>>>>> 43fa91b9ba3d13f6e75fc99307645c6328a55172
